@@ -1,0 +1,7 @@
+this is a test
+python is better
+this file is about c
+this is python
+start
+middle
+end
