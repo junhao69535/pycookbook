@@ -3,5 +3,6 @@ python is better
 this file is about c
 this is python
 start
+this is python
 middle
 end
