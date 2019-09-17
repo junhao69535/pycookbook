@@ -1,3 +1,9 @@
-this is a test
-it is in chapter4
-iter all item
+##
+# User Database
+#
+# Note that this file is consulted directly only when the system is running
+# in single-user mode. At other times, this information is provided by
+# Open Directory. python
+##
+nobody:*:-2:-2:Unprivileged User:/var/empty:/usr/bin/false
+root:*:0:0:System Administrator:/var/root:/bin/sh
