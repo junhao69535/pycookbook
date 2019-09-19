@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04c0cd89-fbda-4bc5-9941-9a292ffaefc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter5/read_and_write_context_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter5/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter5/test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +46,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.iter_with_fixed_size">
-    <configuration name="io_of_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.read_and_write_json">
+    <configuration name="Serialization_of_pythonobj" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +60,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/io_of_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/Serialization_of_pythonobj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iter_with_fixed_size" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="create_temp_file_and_dir" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +82,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/iter_with_fixed_size.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/create_temp_file_and_dir.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_and_write_bytedata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="read_and_write_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/read_and_write_bytedata.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter6/read_and_write_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_and_write_compress_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="read_and_write_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/read_and_write_compress_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter6/read_and_write_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="write_if_file_not_exists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wrap_fd_into_fileobj" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +148,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/write_if_file_not_exists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter5/wrap_fd_into_fileobj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.iter_with_fixed_size" />
-        <item itemvalue="Python.read_and_write_compress_file" />
-        <item itemvalue="Python.io_of_string" />
-        <item itemvalue="Python.write_if_file_not_exists" />
-        <item itemvalue="Python.read_and_write_bytedata" />
+        <item itemvalue="Python.read_and_write_json" />
+        <item itemvalue="Python.read_and_write_csv" />
+        <item itemvalue="Python.Serialization_of_pythonobj" />
+        <item itemvalue="Python.create_temp_file_and_dir" />
+        <item itemvalue="Python.wrap_fd_into_fileobj" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +179,7 @@
       <updated>1568113149252</updated>
       <workItem from="1568113173305" duration="28660000" />
       <workItem from="1568269138276" duration="66230000" />
-      <workItem from="1568798019847" duration="9069000" />
+      <workItem from="1568798019847" duration="32135000" />
     </task>
     <servers />
   </component>
@@ -204,6 +204,8 @@
     <SUITE FILE_PATH="coverage/pycookbook$match_or_search_of_str.coverage" NAME="match_or_search_of_str Coverage Results" MODIFIED="1568197501782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pycookbook$proxy_iteration.coverage" NAME="proxy_iteration Coverage Results" MODIFIED="1568701374837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pycookbook$inf_and_NaN.coverage" NAME="inf_and_NaN Coverage Results" MODIFIED="1568624084998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
+    <SUITE FILE_PATH="coverage/pycookbook$Serialization_of_pythonobj.coverage" NAME="Serialization_of_pythonobj Coverage Results" MODIFIED="1568886917319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/pycookbook$change_encoding_of_file.coverage" NAME="change_encoding_of_file Coverage Results" MODIFIED="1568877434457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$order_no_sup_comp_obj.coverage" NAME="order_no_sup_comp_obj Coverage Results" MODIFIED="1568182559597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/pycookbook$slice_of_iteration.coverage" NAME="slice_of_iteration Coverage Results" MODIFIED="1568709455886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pycookbook$1_4.coverage" NAME="1.4 Coverage Results" MODIFIED="1568120652772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
@@ -211,6 +213,7 @@
     <SUITE FILE_PATH="coverage/pycookbook$1_1.coverage" NAME="1.1 Coverage Results" MODIFIED="1568119465822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/pycookbook$bin_oct_hex_digits.coverage" NAME="bin_oct_hex_digits Coverage Results" MODIFIED="1568616969781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
     <SUITE FILE_PATH="coverage/pycookbook$read_and_write_bytedata.coverage" NAME="read_and_write_bytedata Coverage Results" MODIFIED="1568801282641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/pycookbook$mmap_binfile.coverage" NAME="mmap_binfile Coverage Results" MODIFIED="1568865008139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$use_generation_create_iter.coverage" NAME="use_generation_create_iter Coverage Results" MODIFIED="1568702157248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pycookbook$io_of_string.coverage" NAME="io_of_string Coverage Results" MODIFIED="1568803961492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$del_and_keep_order.coverage" NAME="del_and_keep_order Coverage Results" MODIFIED="1568168949924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
@@ -226,9 +229,11 @@
     <SUITE FILE_PATH="coverage/pycookbook$calculate_fraction.coverage" NAME="calculate_fraction Coverage Results" MODIFIED="1568625385222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
     <SUITE FILE_PATH="coverage/pycookbook$transfer_and_cal_data.coverage" NAME="transfer_and_cal_data Coverage Results" MODIFIED="1568189475435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/pycookbook$split_string.coverage" NAME="split_string Coverage Results" MODIFIED="1568192274771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
+    <SUITE FILE_PATH="coverage/pycookbook$wrap_fd_into_fileobj.coverage" NAME="wrap_fd_into_fileobj Coverage Results" MODIFIED="1568878888264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$combine_order_and_keep_order.coverage" NAME="combine_order_and_keep_order Coverage Results" MODIFIED="1568792971503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pycookbook$print_into_file.coverage" NAME="print_into_file Coverage Results" MODIFIED="1568794735239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$shell_match_str.coverage" NAME="shell_match_str Coverage Results" MODIFIED="1568194136955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
+    <SUITE FILE_PATH="coverage/pycookbook$read_and_write_json.coverage" NAME="read_and_write_json Coverage Results" MODIFIED="1568898456348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
     <SUITE FILE_PATH="coverage/pycookbook$format_str_with_collength.coverage" NAME="format_str_with_collength Coverage Results" MODIFIED="1568601475943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pycookbook$skip_start_of_iter.coverage" NAME="skip_start_of_iter Coverage Results" MODIFIED="1568710652993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pycookbook$implement_iter_protocol.coverage" NAME="implement_iter_protocol Coverage Results" MODIFIED="1568703576463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
@@ -238,16 +243,23 @@
     <SUITE FILE_PATH="coverage/pycookbook$find_most_occur_element.coverage" NAME="find_most_occur_element Coverage Results" MODIFIED="1568171009699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/pycookbook$deal_html_and_xml_in_str.coverage" NAME="deal_html_and_xml_in_str Coverage Results" MODIFIED="1568604568866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pycookbook$unicode_in_re.coverage" NAME="unicode_in_re Coverage Results" MODIFIED="1568284129614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
+    <SUITE FILE_PATH="coverage/pycookbook$test_file_if_exists.coverage" NAME="test_file_if_exists Coverage Results" MODIFIED="1568874152050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$1_3.coverage" NAME="1.3 Coverage Results" MODIFIED="1568119634601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/pycookbook$write_if_file_not_exists.coverage" NAME="write_if_file_not_exists Coverage Results" MODIFIED="1568801931523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/pycookbook$get_listdir.coverage" NAME="get_listdir Coverage Results" MODIFIED="1568874827451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/pycookbook$ignore_encofing_of_filename.coverage" NAME="ignore_encofing_of_filename Coverage Results" MODIFIED="1568875733713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$permutation.coverage" NAME="permutation Coverage Results" MODIFIED="1568713108230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
+    <SUITE FILE_PATH="coverage/pycookbook$read_bindata_into_buffer.coverage" NAME="read_bindata_into_buffer Coverage Results" MODIFIED="1568861892709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$combine_dicts.coverage" NAME="combine_dicts Coverage Results" MODIFIED="1568189769051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/pycookbook$align_str.coverage" NAME="align_str Coverage Results" MODIFIED="1568288225463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pycookbook$transfer_datetiem_and_time.coverage" NAME="transfer_datetiem_and_time Coverage Results" MODIFIED="1568639089252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
+    <SUITE FILE_PATH="coverage/pycookbook$operation_of_filepath.coverage" NAME="operation_of_filepath Coverage Results" MODIFIED="1568873608634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$1_6.coverage" NAME="1.6 Coverage Results" MODIFIED="1568122517200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/pycookbook$read_and_write_csv.coverage" NAME="read_and_write_csv Coverage Results" MODIFIED="1568897722104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
     <SUITE FILE_PATH="coverage/pycookbook$clean_text_str.coverage" NAME="clean_text_str Coverage Results" MODIFIED="1568285651808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pycookbook$reversed_iter.coverage" NAME="reversed_iter Coverage Results" MODIFIED="1568705163848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pycookbook$the_same_of_twodict.coverage" NAME="the_same_of_twodict Coverage Results" MODIFIED="1568167434395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/pycookbook$write_byte_into_contextfile.coverage" NAME="write_byte_into_contextfile Coverage Results" MODIFIED="1568878499896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$namedslice.coverage" NAME="namedslice Coverage Results" MODIFIED="1568170117881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/pycookbook$bytestr.coverage" NAME="bytestr Coverage Results" MODIFIED="1568605810985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pycookbook$traverse_iterator.coverage" NAME="traverse_iterator Coverage Results" MODIFIED="1568692122754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
@@ -265,6 +277,7 @@
     <SUITE FILE_PATH="coverage/pycookbook$del_unneed_char_from_str.coverage" NAME="del_unneed_char_from_str Coverage Results" MODIFIED="1568285463634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pycookbook$order_dict_by_key.coverage" NAME="order_dict_by_key Coverage Results" MODIFIED="1568172057635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/pycookbook$format_digits.coverage" NAME="format_digits Coverage Results" MODIFIED="1568614022170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
+    <SUITE FILE_PATH="coverage/pycookbook$create_temp_file_and_dir.coverage" NAME="create_temp_file_and_dir Coverage Results" MODIFIED="1568879207899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/pycookbook$standardized_unicode.coverage" NAME="standardized_unicode Coverage Results" MODIFIED="1568283009599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pycookbook$generator_func_with_outer_status.coverage" NAME="generator_func_with_outer_status Coverage Results" MODIFIED="1568706430877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pycookbook$read_and_write_context_data.coverage" NAME="read_and_write_context_data Coverage Results" MODIFIED="1568792975188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
