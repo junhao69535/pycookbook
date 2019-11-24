@@ -1,0 +1,3 @@
+这一章有很多python3的特性，并没有记录。如果需要则要到参考python cookbook
+
+后面用python3重写这一章

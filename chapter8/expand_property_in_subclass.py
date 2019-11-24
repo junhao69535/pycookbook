@@ -106,6 +106,3 @@ class SubPerson(Person):
     def name(self):
         print 'Deleting name'
         super(SubPerson, SubPerson).name.__delete__(self)
-
-
-
